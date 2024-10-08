@@ -65,9 +65,10 @@ Ensure the following dependencies are installed before running the project:
 - seaborn
 - jupyter (for notebooks)
 
-  | Model               | Accuracy | Precision | Recall | F1 Score |
+| Model               | Accuracy | Precision | Recall | F1 Score |
 |---------------------|----------|-----------|--------|----------|
-| Logistic Regression  | 0.85     | 0.82      | 0.80   | 0.81     |
+| Logistic Regression | 0.85     | 0.82      | 0.80   | 0.81     |
+
 
 
 You can install the dependencies using:
